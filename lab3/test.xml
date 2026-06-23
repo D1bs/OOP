@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shapes>
+  <Shape type="Rhombus">
+    <Diagonal1>3</Diagonal1>
+    <Diagonal2>64</Diagonal2>
+  </Shape>
+  <Shape type="Triangle">
+    <SideA>34</SideA>
+    <SideB>12</SideB>
+    <SideC>32</SideC>
+  </Shape>
+</Shapes>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shapes>
+  <Shape type="Rectangle">
+    <Width>5</Width>
+    <Height>6</Height>
+  </Shape>
+  <Shape type="Rhombus">
+    <Diagonal1>4</Diagonal1>
+    <Diagonal2>6</Diagonal2>
+  </Shape>
+  <Shape type="Rhombus">
+    <Diagonal1>10</Diagonal1>
+    <Diagonal2>6</Diagonal2>
+  </Shape>
+</Shapes>
