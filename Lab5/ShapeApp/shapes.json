@@ -1,0 +1,16 @@
+﻿{
+  "_savedAt": "2026-04-25T05:56:47.6893130Z",
+  "_shapeCount": 2,
+  "Shapes": [
+    {
+      "type": "Pentagon",
+      "SideLength": "5"
+    },
+    {
+      "type": "Star",
+      "Points": "34",
+      "OuterRadius": "23",
+      "InnerRadius": "23"
+    }
+  ]
+}

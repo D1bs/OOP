@@ -1,0 +1,28 @@
+# .NET
+obj/
+bin/
+Debug/
+Release/
+packages/
+*.user
+*.suo
+*.cache
+*.tmp
+*.log
+
+# IDE
+.idea/
+.vs/
+*.sln.ide
+*.csproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
