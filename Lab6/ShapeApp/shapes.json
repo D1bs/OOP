@@ -1,0 +1,16 @@
+﻿{
+  "_savedAt": "2026-04-25T06:03:25.2678070Z",
+  "_shapeCount": 2,
+  "Shapes": [
+    {
+      "type": "Pentagon",
+      "SideLength": "6"
+    },
+    {
+      "type": "Trapezoid",
+      "Base1": "3",
+      "Base2": "6",
+      "Height": "3"
+    }
+  ]
+}
